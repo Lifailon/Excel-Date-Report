@@ -4,8 +4,8 @@
 
 **Если дата уже просрочена (сообщение будет приходить постоянно):**
 
-![Image alt](https://github.com/Lifailon/XLS-Date-Report/blob/rsa/Screen/expired.jpg)
+![Image alt](https://github.com/Lifailon/Excel-Date-Report/blob/rsa/Screen/expired.jpg)
 
 **Тригерными значениями (всего два раза, до события завершения срока действия):**
 
-![Image alt](https://github.com/Lifailon/XLS-Date-Report/blob/rsa/Screen/expires.jpg)
+![Image alt](https://github.com/Lifailon/Excel-Date-Report/blob/rsa/Screen/expires.jpg)
